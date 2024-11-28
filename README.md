@@ -1,6 +1,4 @@
-Here is the **README.md** file with the hash symbols removed for a plain, clean structure:
 
----
 
 SmartElectronics
 
